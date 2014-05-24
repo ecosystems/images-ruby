@@ -1,0 +1,10 @@
+nodejs
+imagemagick
+libxml2
+libxslt
+readline
+zlib
+openssl
+postgresql-libs
+sqlite2
+git
